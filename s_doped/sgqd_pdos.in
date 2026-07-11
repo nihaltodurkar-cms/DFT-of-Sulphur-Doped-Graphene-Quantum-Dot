@@ -1,0 +1,8 @@
+&PROJWFC
+    outdir = '/home/nihal/Desktop/OtptfGG/',
+    prefix = 's_gqd_1',
+    DeltaE = 0.01,
+    Emin = -10.0,
+    Emax = 10.0,
+    filpdos = 's_gqd_1',
+/

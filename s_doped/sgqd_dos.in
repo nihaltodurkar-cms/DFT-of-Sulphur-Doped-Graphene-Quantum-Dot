@@ -1,0 +1,8 @@
+&DOS
+    outdir = '/home/nihal/Desktop/OtptfGG/',
+    prefix = 's_gqd_1',
+    fildos = 's_gqd_1.dos',
+    Emin = -10.0,
+    Emax = 10.0,
+    DeltaE = 0.01,
+/

@@ -1,0 +1,10 @@
+&DOS
+    outdir='/home/nihal/Desktop/OtptfGG/'
+    prefix='gqd_1'
+    fildos='gqd.dos'
+    Emin=-10
+    Emax=10
+    DeltaE=0.01
+    ngauss=0
+    degauss=0.0022
+/

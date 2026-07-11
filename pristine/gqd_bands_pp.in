@@ -1,0 +1,5 @@
+&BANDS
+    prefix = 'gqd_1',
+    outdir = '/home/nihal/Desktop/OtptfGG/',
+    filband = 'gqd.bands.dat'
+/
