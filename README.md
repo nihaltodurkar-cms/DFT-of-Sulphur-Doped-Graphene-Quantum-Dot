@@ -65,7 +65,7 @@ Nitrogen-Doped GQD
 
 ### Comparison of Pristine and Sulfur-Doped GQD
 
-![Comparison of PDOS](comparison.png)
+![Comparison of PDOS](comparision.png)
 
 **Key observations**
 - Sulfur doping modifies the density of states near the Fermi level.
