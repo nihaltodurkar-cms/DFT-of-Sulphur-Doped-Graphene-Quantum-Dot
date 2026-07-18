@@ -40,6 +40,37 @@ Nitrogen-Doped GQD
 * Modified electronic states
 * Comparison with pristine GQD
 
+  ## Results
+
+### Pristine Graphene Quantum Dot
+
+![Pristine PDOS](pristine_pdos.png)
+
+**Observation**
+- Carbon 2p orbitals dominate the frontier electronic states.
+- A clear HOMO–LUMO gap is observed.
+
+---
+
+### Sulfur-Doped Graphene Quantum Dot
+
+![Sulfur-Doped PDOS](sulphur_doped_pdos.png)
+
+**Observation**
+- Sulfur introduces additional electronic states.
+- S 3p orbitals contribute near the frontier states.
+- The electronic structure is modified compared with the pristine GQD.
+
+---
+
+### Comparison of Pristine and Sulfur-Doped GQD
+
+![Comparison of PDOS](comparison.png)
+
+**Key observations**
+- Sulfur doping modifies the density of states near the Fermi level.
+- Additional states associated with sulfur appear in the PDOS.
+- The HOMO–LUMO gap changes after doping, indicating altered electronic properties.
 ⸻
 
 Key Findings
