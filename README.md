@@ -2,9 +2,9 @@ DFT of Sulphur-Doped Graphene Quantum Dot
 
 Project Overview
 
-This repository presents a Density Functional Theory (DFT) investigation of pristine and nitrogen-doped graphene quantum dots (GQDs) using Quantum ESPRESSO.
+This repository presents a Density Functional Theory (DFT) investigation of pristine and sulphur-doped graphene quantum dots (GQDs) using Quantum ESPRESSO.
 
-The objective is to understand how nitrogen substitution modifies the electronic structure of graphene quantum dots by comparing:
+The objective is to understand how sulphur substitution modifies the electronic structure of graphene quantum dots by comparing:
 
 * Optimized geometry
 * Density of States (DOS)
@@ -44,7 +44,7 @@ Nitrogen-Doped GQD
 
 Key Findings
 
-* Nitrogen substitution introduces localized electronic states.
+* Sulphur substitution introduces localized electronic states.
 * Electronic structure changes are observed near the Fermi level.
 * The HOMO-LUMO gap is altered after doping.
 * PDOS indicates contributions from nitrogen orbitals around frontier energy levels.
