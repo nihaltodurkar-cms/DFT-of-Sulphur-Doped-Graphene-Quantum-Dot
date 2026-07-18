@@ -21,6 +21,8 @@ Software
 * Ultrasoft Pseudopotentials
 * Python (NumPy, Matplotlib)
 
+⸻
+
 Results
 
 Pristine GQD
@@ -65,3 +67,15 @@ References
 
 1. P. Giannozzi et al., Journal of Chemical Physics, 152, 154105 (2020).
 2. P. Giannozzi et al., Journal of Physics: Condensed Matter, 21, 395502 (2009).
+
+⸻
+
+Author
+
+Nihal Deepak Todurkar
+
+B.Tech Metallurgical & Materials Engineering
+
+National Institute of Technology Karnataka (NITK)
+
+Interested in Computational Materials Science • Semiconductor Devices • Density Functional Theory
