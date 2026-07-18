@@ -1,1 +1,67 @@
-Density Functional Theory (DFT) study of nitrogen-doped graphene quantum dots using Quantum ESPRESSO. Includes geometry optimization, SCF, DOS, PDOS, HOMO-LUMO analysis, and electronic structure comparison with pristine GQD.
+DFT of Nitrogen-Doped Graphene Quantum Dot
+
+Project Overview
+
+This repository presents a Density Functional Theory (DFT) investigation of pristine and nitrogen-doped graphene quantum dots (GQDs) using Quantum ESPRESSO.
+
+The objective is to understand how nitrogen substitution modifies the electronic structure of graphene quantum dots by comparing:
+
+* Optimized geometry
+* Density of States (DOS)
+* Projected Density of States (PDOS)
+* HOMO-LUMO gap
+* Electronic states near the Fermi level
+
+⸻
+
+Software
+
+* Quantum ESPRESSO 7.5
+* PBE-GGA Exchange Correlation Functional
+* Ultrasoft Pseudopotentials
+* Python (NumPy, Matplotlib)
+
+Results
+
+Pristine GQD
+
+* Relaxed structure
+* DOS
+* PDOS
+* HOMO-LUMO gap
+
+Nitrogen-Doped GQD
+
+* Optimized geometry
+* DOS
+* PDOS
+* Modified electronic states
+* Comparison with pristine GQD
+
+⸻
+
+Key Findings
+
+* Nitrogen substitution introduces localized electronic states.
+* Electronic structure changes are observed near the Fermi level.
+* The HOMO-LUMO gap is altered after doping.
+* PDOS indicates contributions from nitrogen orbitals around frontier energy levels.
+
+⸻
+
+Future Work
+
+* Formation energy
+* Charge density difference
+* Bader charge analysis
+* Band structure
+* Optical properties
+* Different nitrogen configurations
+* Transport calculations
+
+⸻
+
+References
+
+1. P. Giannozzi et al., Journal of Chemical Physics, 152, 154105 (2020).
+2. P. Giannozzi et al., Journal of Physics: Condensed Matter, 21, 395502 (2009).
