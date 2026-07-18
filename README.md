@@ -1,1 +1,1 @@
-# DFT-of-Nitrogen-Doped-Graphene-Quantum-Dot-
+Density Functional Theory (DFT) study of nitrogen-doped graphene quantum dots using Quantum ESPRESSO. Includes geometry optimization, SCF, DOS, PDOS, HOMO-LUMO analysis, and electronic structure comparison with pristine GQD.
