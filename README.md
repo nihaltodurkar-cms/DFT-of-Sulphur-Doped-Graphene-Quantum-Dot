@@ -1,4 +1,4 @@
-DFT of Nitrogen-Doped Graphene Quantum Dot
+DFT of Sulphur-Doped Graphene Quantum Dot
 
 Project Overview
 
