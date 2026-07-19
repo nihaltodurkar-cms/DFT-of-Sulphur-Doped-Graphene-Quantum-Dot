@@ -71,6 +71,7 @@ Nitrogen-Doped GQD
 - Sulfur doping modifies the density of states near the Fermi level.
 - Additional states associated with sulfur appear in the PDOS.
 - The HOMO–LUMO gap changes after doping, indicating altered electronic properties.
+
 ⸻
 
 Key Findings
