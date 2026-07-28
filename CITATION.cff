@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "DFT Study of Sulphur-Doped Graphene Quantum Dots"
+type: software
+authors:
+  - family-names: "Todurkar"
+    given-names: "Nihal Deepak"
+    affiliation: "National Institute of Technology Karnataka (NITK)"
+repository-code: "https://github.com/nihaltodurkar-cms/DFT-of-Sulphur-Doped-Graphene-Quantum-Dot"
+license: MIT
+date-released: "2026-07-28"
+keywords:
+  - "density functional theory"
+  - "graphene quantum dots"
+  - "sulphur doping"
+  - "quantum espresso"
+  - "computational materials science"

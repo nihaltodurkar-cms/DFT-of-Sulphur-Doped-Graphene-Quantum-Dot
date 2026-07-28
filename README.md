@@ -83,9 +83,13 @@ The dot is a hydrogen-passivated, coronene-type polycyclic aromatic structure. S
 │   ├── sgqd_pdos.in/.out
 │   ├── s_gqd_1.dos
 │   └── s_gqd_1.pdos_tot
+├── scripts/
+│   └── plot_pdos.py             # Regenerates the PDOS figures from pdos_tot data
 ├── pristine_pdos.png           # PDOS plot — pristine GQD
 ├── sulphur_doped_pdos.png      # PDOS plot — sulphur-doped GQD
 ├── comparision.png             # Overlay comparison of both PDOS
+├── requirements.txt             # Python dependencies for plotting
+├── CITATION.cff                 # Machine-readable citation metadata
 └── README.md
 ```
 
@@ -151,6 +155,13 @@ projwfc.x -in gqd_projwfc.in > gqd_projwfc.out
 ```
 
 > **Note:** the `outdir` and `pseudo_dir` paths in the provided `.in` files point to the original working environment and should be updated to match your local setup before rerunning.
+
+To regenerate the PDOS figures from the existing `pdos_tot` output without rerunning Quantum ESPRESSO:
+
+```bash
+pip install -r requirements.txt
+python scripts/plot_pdos.py
+```
 
 ## Future Work
 

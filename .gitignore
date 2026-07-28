@@ -1,0 +1,17 @@
+# Quantum ESPRESSO run artifacts
+*.save/
+*.wfc*
+*.mix*
+*.igk*
+*.EIGEN
+CRASH
+*.xml
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+*.swp
